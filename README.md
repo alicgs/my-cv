@@ -7,4 +7,4 @@ Welcome to my corner of the digital realm! I'm Esin, a frontend developer with a
 
 Connect with me:
 Languages and Tools:
-bootstrap css3 figma git html5 javascript sass
+bootstrap css3 figma git html5 javascript :sass:
